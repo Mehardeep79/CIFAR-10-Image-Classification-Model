@@ -33,6 +33,8 @@ This project builds and trains a CNN model to classify these images, demonstrati
 - TensorFlow 2.x
 - NumPy
 - Matplotlib
+- Seaborn
+- Scikit-Learn
 - Jupyter Notebook / Google Colab
 
 ### 🧰 Install dependencies:
@@ -97,18 +99,6 @@ Training and validation accuracy/loss curves are plotted for insights.
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to open an issue or submit a pull request.
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-📥 **Download Notebook:** [CIFAR-10_Classification_Clean.ipynb](./CIFAR-10_Classification_Clean.ipynb) ⬇️  
 💡 **Explore more:** [Keras CIFAR-10 documentation](https://keras.io/api/datasets/cifar10/)
 
 ---
