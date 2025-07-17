@@ -23,6 +23,7 @@ This repository contains an end-to-end workflow: from data loading and augmentat
 
 ## 🚀 Project Overview
 CIFAR-10 is a dataset of **60,000 32×32 color images** across **10 classes**: 
+
     0. Airplanes
     1. Cars
     2. Birds
