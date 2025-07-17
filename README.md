@@ -4,6 +4,7 @@
 A deep learning project to classify images from the CIFAR-10 dataset using **Convolutional Neural Networks (CNNs)** with **TensorFlow/Keras**.  
 This repository contains an end-to-end workflow: from data loading and augmentation, to training, evaluation, and insights.
 
+![Image Classification for each class in CIFAR-10](assets/Grid_Inference1.png.png)
 ---
 
 ## 📑 Table of Contents
