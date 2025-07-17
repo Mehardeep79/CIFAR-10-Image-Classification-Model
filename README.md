@@ -22,7 +22,17 @@ This repository contains an end-to-end workflow: from data loading and augmentat
 ---
 
 ## 🚀 Project Overview
-CIFAR-10 is a dataset of **60,000 32×32 color images** across **10 classes**.  
+CIFAR-10 is a dataset of **60,000 32×32 color images** across **10 classes**: 
+    0. Airplanes
+    1. Cars
+    2. Birds
+    3. Cats
+    4. Deer
+    5. Dogs
+    6. Frogs
+    7. Horses
+    8. Ships
+    9. Trucks
 This project builds and trains a CNN model to classify these images, demonstrating fundamental deep learning principles in computer vision.
 
 ---
