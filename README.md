@@ -99,7 +99,9 @@ Training and validation accuracy/loss curves are plotted for insights.
 ## 📈 Results
 📊 **Test Accuracy:** ~78%  
 📊 **Confusion Matrix:** 
-![Confusion Matrix Visualization](assets/confusion_matrix.png)
+
+<img src="assets/confusion_matrix.png" width="50%" alt="Confusion Matrix Visualization">
+
 
 ---
 
